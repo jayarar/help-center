@@ -1,8 +1,5 @@
 ## Welcome to Help Center
 
-You can use the [editor on GitHub](https://github.com/jayarar/help-center/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 #### 1) I have a question about the store / products / my order, who do I ask?
 
