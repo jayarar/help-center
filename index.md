@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jayarar/help-center/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### I have a question about the store / products / my order, who do I ask?
+#### 1) I have a question about the store / products / my order, who do I ask?
 
 All inquiries can be submitted at the "Submit a Request" link above, or via e-mail at help@famehouse.net
 
@@ -15,7 +15,7 @@ We do our best to get back to everyone as fast as possible. Normally, we will re
 Please note that sending multiple emails or requests will slow the response time. Additionally, please note that we do not have a phone number or call support at this time. We are happy to assist you via email!
 
 
-### I don’t want the items that I ordered anymore. How can I return them for a refund or an exchange?
+#### 2) I don’t want the items that I ordered anymore. How can I return them for a refund or an exchange?
 
 Please reach out to us for instructions on how and where to return/exchange your item. Please provide us with your order number and the name of the item that you wish to return.
 
@@ -30,11 +30,11 @@ If you are returning an item for a refund, please allow 3-5 days for your item t
 
 We encourage anyone returning a package to receive tracking information from their carrier once they ship it back to us to guarantee arrival.
 
-### I purchased merchandise at a show or at a concert, can I make a return or exchange?
+#### 3) I purchased merchandise at a show or at a concert, can I make a return or exchange?
 
 We cannot accommodate any return or exchange requests for merchandise purchased at a concert or show. We can only assist customers who purchased an item online through a store that we are associated with.
 
-### Do you have a sizing chart for this item?
+#### 4) Do you have a sizing chart for this item?
 
 Please note that we do not have size charts for items unless otherwise specified on the store.
 
